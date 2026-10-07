@@ -28,4 +28,5 @@ Data Science student (BDatSci, Computer Science stream) at Stellenbosch Universi
 
 ### Projects
 
-Data analysis projects are being added to this profile. See the pinned repositories below.
+- **[Matric pass rates in South Africa, 2018–2025](https://github.com/Kumkani101/sa-matric-pass-rates)**: analysis of National Senior Certificate pass rates across all nine provinces using official Department of Basic Education figures. Shows how the gap between the highest and lowest province narrowed from 18.5 to 6.4 percentage points. *Python, pandas, matplotlib*
+- **[Unemployment in South Africa by province, 2019–2026](https://github.com/Kumkani101/sa-unemployment-by-province)**: analysis of Stats SA Quarterly Labour Force Survey data showing that unemployment has not returned to pre-pandemic levels and that the gap between provinces is the widest since 2019. *R, dplyr, tidyr, ggplot2*
